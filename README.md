@@ -54,19 +54,23 @@
  <hr>
 <p align="center">
 <a href="https://github.com/prajaktahadole">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajaktahadole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajaktahadole&layout=compact&langs_count=8&theme=algolia"/>
+ 
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajaktahadole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajaktahadole&layout=compact&langs_count=8&theme=algolia"/>
+  
+ <img height="48%" src="https://github-readme-stats.vercel.app/api?username=prajaktahadole&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+ 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktahadole&theme=radical" />
+ 
+
+ 
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajaktahadole&theme=dracula" />
+    
 </a>
 </p>
   
-<p align="center">
-  <a href="https://github.com/prajaktahadole"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=prajaktahadole&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktahadole&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajaktahadole&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajaktahadole&theme=dracula" />
-    </span></a>
-</p>
+
   
 <br>
   
@@ -76,8 +80,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=prajaktahadole&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-
-
 
 <br>  
   
