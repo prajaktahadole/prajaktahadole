@@ -2,7 +2,7 @@
 
 <h4>Hey there !! Great to see you <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h>
 <h1 >I'm Prajakta Hadole 🖥️📱💻</h1> 
-<img align="right" margin-top=-25; src="https://komarev.com/ghpvc/?username=prajaktahadole&color=blueviolet&style=flat">
+
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
@@ -63,15 +63,11 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktahadole&theme=radical" />
  
 
- 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajaktahadole&theme=dracula" />
     
 </a>
 </p>
   
-
-  
-<br>
   
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
@@ -80,9 +76,6 @@
 </a>
 </p>
 
-<br>  
-  
- 
 ![](https://github.com/prajaktahadole/prajaktahadole/blob/main/imgs/bottom_header.svg)
 
 
@@ -96,12 +89,16 @@
 <a href="https://medium.com/@prajaktahadole" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
  
 
-<br/>
- 
- 
  
 ## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/prajaktahadole" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+<hr>
+ 
+##### Since 2022:
+<img src="https://komarev.com/ghpvc/?username=prajaktahadole&color=blueviolet&style=flat">
+
+
 
 
