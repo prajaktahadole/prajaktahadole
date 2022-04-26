@@ -56,9 +56,9 @@
 <a href="https://github.com/prajaktahadole">
  
  
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajaktahadole&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajaktahadole&layout=compact&langs_count=8&theme=algolia"/>
   
- <img  height="140em"  src="https://github-readme-stats.vercel.app/api?username=prajaktahadole&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+ <img  height="150em"  src="https://github-readme-stats.vercel.app/api?username=prajaktahadole&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
  
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktahadole&theme=radical" />
  
