@@ -89,11 +89,6 @@
 <a href="https://medium.com/@prajaktahadole" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
  
 
- 
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/prajaktahadole" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
 <hr>
  
 ##### Since 2022:
