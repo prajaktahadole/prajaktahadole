@@ -82,7 +82,7 @@
 ## 🤝🏻 Let's get connected:
 
 <p align="center">
-<a href="https://prajaktahadole.netlify.app/"><img src="https://prajaktahadole.netlify.app/-prajaktahadole.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
+ <a href="https://prajaktahadole.netlify.app/"><img src="https://img.shields.io/badge/-prajaktahadole.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="30px"/></a>
 <a href="https://www.linkedin.com/in/prajakta-hadole/"><img src="https://img.shields.io/badge/-Prajakta%20Hadole%20-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30px"/></a>
 <a href="mailto:prajaktahadole@gmail.com"><img src="https://img.shields.io/badge/-prajaktahadole@gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30px" /></a>
 <a href="https://www.instagram.com/prajaktahadole/"><img src="https://img.shields.io/badge/-@prajaktahadole-E4405F?style=flat&logo=Instagram&logoColor=white" height="30px"/></a>
