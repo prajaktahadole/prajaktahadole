@@ -1,6 +1,6 @@
 
 
-<h4>Hey there !! Great to see you <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h>
+<h4>Hey!! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h>
 <h1 >I'm Prajakta Hadole 🖥️📱💻</h1> 
 
 ## 👨🏻‍💻 About Me:
