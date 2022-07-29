@@ -5,11 +5,11 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://camo.githubusercontent.com/fae4b674aa5c53e9e47f1e52309676275b456869cbc75367e4118b0c9d8d3ae4/68747470733a2f2f6166702e6f72672e706b2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f616d617a6f6e2d76612e676966" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://prajaktahadole.netlify.app/)**
 
-- 💡 I like to explore new `Technologies` and `Develop software` solutions
+- 💡 I like to explore new `Technologies` and `Develop Software` solutions
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -19,7 +19,7 @@
 
 - 👯 I’m currently searching for a new career opportunity in `Software Industry`
 
-- 💬 Ask me about `code`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
+- 💬 Ask me about `Code`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `Softwaredevelopment`
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
